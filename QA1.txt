@@ -1,3 +1,6 @@
 This is QA1 file
 
 After pushing file to Github again sending the same changes
+
+
+making changes qa2
